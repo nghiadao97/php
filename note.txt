@@ -1,0 +1,15 @@
++> Public thư mục này chứa các file css, js, image, upload của cả backend vaf frontend
+	+ Thư mục admin là chứa các file bên admin
+	+ Còn frontend là phần giao diện bên ngoài
++> Thư mục admin ! thư mục này chứa các file, modules xử lý của admin (backend)
++> Tiếp đến là thư mục autoload và file xử lý chung mà tất cả các file đề gọi
++> Thư mục layouts
+
+-----
+Vào thư mục admin cũng tạo y hệt như vậy
++> Thư mục modules thư mục này sẽ chứa các modules mà chúng ta quản lý ví dụ như quản lý thành viên, sản phẩm, vvv
++> Tiếp theo đến thư mục libraries
+	+ Thư mục này mình sẽ tạo các file xử lý như
+		+ Function
+		+ Database
+		
